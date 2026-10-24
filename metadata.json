@@ -1,0 +1,6 @@
+{
+  "name": "Sahay AI - Everyday Helper",
+  "description": "Simple answers to everyday questions, writing emails and messages, daily planning, step-by-step explanations, and decision thinking in English, Hindi, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
